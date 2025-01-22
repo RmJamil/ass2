@@ -7,7 +7,9 @@
     --vio:#5D58EF;
     --blk:#111111;
 }
-
+*{
+    max-width: 100%;
+}
 
 .quicksand-prim {
   font-family: "Quicksand", serif;
@@ -84,10 +86,6 @@
 }
 .adm{
     color:var(--vio);
-}
-.logo{
-    height: 80px;
-    width: 80px;
 }
 .btn{
     color:#ffffff;
