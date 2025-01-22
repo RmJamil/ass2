@@ -30,8 +30,8 @@
 .top{
     display:flex;
     
-    margin-left:187px;
-    margin-right: 187px;
+    margin-left:160px;
+    margin-right: 160px;
     justify-content: center;
     align-items: center;
     
@@ -46,8 +46,8 @@
 }
 .top h1{
     margin-left: 14px;
-   font-size: 38px;
-    font-weight: 700; 
+   font-size: 34px;
+    font-weight: 600; 
     color:#111111;
     margin-top: 24px;
     margin-bottom: 15px;
@@ -63,7 +63,7 @@
 
 }
 .top li{
-    margin: 42px;
+    margin: 40px;
     font-size: 30px;
     
 }
@@ -84,9 +84,9 @@
 .btn{
     color:#ffffff;
     background-color: var(--orgcolor);
-    padding: 13px 80px;
+    padding: 12px 70px;
     border-radius: 16px;
-    font-size: 30px;
+    font-size: 26px;
     font-weight: 600;
 }
 
