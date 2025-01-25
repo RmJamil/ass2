@@ -26,6 +26,9 @@
     display: none;
     align-items: center;
     width: auto;
+    border-bottom: 1px solid #FEA301;
+    width: 100%;
+    padding: 6px;
     
 }
 #mob svg{
@@ -657,5 +660,8 @@ margin-bottom: 106px;
 }
 .fd3 img {
     margin:4px ;
+}
+.hrl{
+    display: block;
 }
 }
