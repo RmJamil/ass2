@@ -251,6 +251,12 @@ margin-bottom: 106px;
     justify-content: center;
     margin-top: 106px;
 }
+.prev:hover{
+    background-color: rgb(214, 108, 108);
+}
+.next:hover{
+    background-color:rgb(214, 108, 108); 
+}
 .container3{
     background-image:url('assets/bg.png'),linear-gradient(to bottom,#ffffff,#FFF4DC) ;
     padding: 53px;
@@ -420,6 +426,7 @@ margin-bottom: 106px;
 .fd1{
     display: grid;
     grid-template-columns: repeat(1,390px);
+    margin-left: 320px;
 }
 .flogo{
     display: flex;
@@ -597,6 +604,7 @@ margin-bottom: 106px;
 .fd1{
     display: grid;
     grid-template-columns: repeat(1,1fr);
+    margin:0px;
 }
 .flogo{
     flex-direction: row;
